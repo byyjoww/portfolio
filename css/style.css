@@ -139,7 +139,10 @@ img
 #portfolio-3
 {
 	background-image: url(../images/background-game-3.jpg);
-	background-position: center bottom;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(46, 38, 34);
 }
 
 .portfolio-container
@@ -153,17 +156,17 @@ img
 
 #portfolio-container-1
 {
-	background-image: url(../images/sticker-game-1.png);
+	/* background-image: url(../images/sticker-game-1.png); */
 }
 
 #portfolio-container-2
 {
-	background-image: url(../images/sticker-game-2.png);
+	/* background-image: url(../images/sticker-game-2.png); */
 }
 
 #portfolio-container-3
 {
-	background-image: url(../images/sticker-game-3.png);
+	/* background-image: url(../images/sticker-game-3.png); */
 }
 
 .portfolio-text-body
