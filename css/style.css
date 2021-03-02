@@ -112,6 +112,11 @@ header
 	background-image: url(../images/icon-linkedin.jpg);
 }
 
+.icon-github
+{
+    background-image: url(../images/icon-github.jpg);
+}
+
 img
 { 
 	border-style: none;
